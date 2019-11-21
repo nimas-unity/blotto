@@ -66,6 +66,7 @@ def main():
     
     for i in port_vals:
         assert int(i)==i, 'All enteries should be integers!'
+        assert i>=0, 'All enteries should be non-negative!'
     
     assert sum(port_vals)==100, 'Enteries should sum up to 100!'
     
