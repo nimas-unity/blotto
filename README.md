@@ -18,5 +18,5 @@ Let’s play a tournament. You get one entry and your final score is the average
 An entry should be submitted as a list of 10 non-negative integers, adding up to 100, where the nth element is the number of units of resources being sent to district n.
 
 ```
-python blotto.py -e myemail.unity3d.com -l 10 10 10 10 10 10 10 10 10 10
+python blotto.py -e myemail@unity3d.com -l 10 10 10 10 10 10 10 10 10 10
 ```
